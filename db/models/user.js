@@ -27,27 +27,15 @@ const user = sequelize.define(
         },
       },
     },
-    firstName: {
+    name: {
       type: DataTypes.STRING,
       allowNull: false,
       validate: {
         notNull: {
-          msg: "firstName cannot be null",
+          msg: "Name cannot be null",
         },
         notEmpty: {
-          msg: "firstName cannot be empty",
-        },
-      },
-    },
-    lastName: {
-      type: DataTypes.STRING,
-      allowNull: false,
-      validate: {
-        notNull: {
-          msg: "lastName cannot be null",
-        },
-        notEmpty: {
-          msg: "lastName cannot be empty",
+          msg: "Name cannot be empty",
         },
       },
     },

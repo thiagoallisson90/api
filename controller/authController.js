@@ -19,8 +19,7 @@ const signup = catchAsync(async (req, res, next) => {
 
   const newUser = await user.create({
     userType: body.userType,
-    firstName: body.firstName,
-    lastName: body.lastName,
+    name: body.name,
     email: body.email,
     password: body.password,
     confirmPassword: body.confirmPassword,
