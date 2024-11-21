@@ -21,10 +21,11 @@ app.use("/api/v1/projects", projectRouter);
 app.use("/api/v1/users", userRouter);
 
 app.get("/simulation", async (req, res) => {
-  const simulations = await simulation.findAndCountAll();
-  if (Array.isArray(simulation)) {
+  const simulations = await simulation.findAll();
+  //console.log(simulations[0].dataValues.id);
+  if (Array.isArray(simulations)) {
     res.status(200).json({
-      data: JSON(simulations),
+      data: "Foi",
     });
   } else {
     res.status(404).json({
