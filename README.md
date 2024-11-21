@@ -42,8 +42,12 @@ Install my-project with npm
 
 - [Thiago Allisson](https://github.com/thiagoallisson90)
 
+## Base Code
+
+- [Tariqu](https://github.com/tariqu/REST-APIs/)
+
 # Hi, I'm Science Computer! 👋
 
 ## 🚀 About Me
 
-I'm a full stack developer and IT teacher...
+I'm a full stack developer, IT teacher, and PhD candidate...
