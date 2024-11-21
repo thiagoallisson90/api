@@ -40,19 +40,10 @@ Install my-project with npm
 
 ## Authors
 
-- [@Tariqu](https://github.com/Tariqu)
+- [Thiago Allisson](https://github.com/thiagoallisson90)
 
-# Hi, I'm Technical Babaji! 👋
+# Hi, I'm Science Computer! 👋
 
 ## 🚀 About Me
 
-I'm a full stack developer...
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarique-akhtar-ansari-616087132)
-[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tariquerkl)
-
-## Video
-
-- [Click here](https://www.youtube.com/watch?v=QoLqMDSBZAs)
+I'm a full stack developer and IT teacher...
